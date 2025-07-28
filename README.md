@@ -35,3 +35,4 @@ AutoGen | Python | Pandas | Matplotlib | LangChain
 ---
 
 ## Architecture
+User → AutoGen Controller → EDA Agent (Summaries &amp; Charts) → Insight Agent (Narration &amp; Refinement) → Output Report
